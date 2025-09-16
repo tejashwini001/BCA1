@@ -1,3 +1,8 @@
-BCA
-2023-26
-currently learning hackthon
+<html>
+<tittle>
+HTML CODE 
+</tittle>
+<body>
+<p>this is the html code</p>
+</body>
+</html>
